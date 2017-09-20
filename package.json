@@ -1,0 +1,22 @@
+{
+  "name": "servers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "s",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fneim/servers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fneim/servers/issues"
+  },
+  "homepage": "https://github.com/Fneim/servers#readme",
+  "dependencies": {
+    "insult-compliment": "^1.1.4"
+  }
+}
